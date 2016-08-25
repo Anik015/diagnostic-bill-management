@@ -1,0 +1,22 @@
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll.config
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.pdb
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.pdb
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.xml
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.dll
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xml
+G:\BITM (BASIS)\Project One\Main Project File\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xmlworker.dll
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll.config
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.dll
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\DCBManagementSystemApp.pdb
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.dll
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xmlworker.dll
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.dll
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\itextsharp.xml
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\bin\Newtonsoft.Json.xml
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.dll
+G:\New folder\Diagonistic Center bill Management System App\DCBManagementSystemApp\DCBManagementSystemApp\obj\Debug\DCBManagementSystemApp.pdb
